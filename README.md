@@ -1,4 +1,4 @@
-# Proyecto: Studio Ghibli
+# Proyecto: Etudio Ghibli
 ## Proceso de diseño
 _El proceso de diseño de esta página constó de dos partes: el prototipo de baja calidad y el de alta calidad._
 
