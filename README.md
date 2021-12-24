@@ -10,6 +10,8 @@ _En la fase de alta calidad ya se definen los colores y el estilo de la página,
 ![alt text](https://github.com/CieloVJ/Proyecto_BaseDeDatos/blob/master/Prototipos/Alta%20fidelidad/Desktop-1.png)
 _Es prácticamente la versión final del proyecto, salvo por algunos cambios que se hacen en la codificación. La aplicación usada fue Figma, debido a que en el apartado "Inspect" nos brinda una idea de cómo deberíamos codificar nuestro css con relación a cada objeto._
 
+_*Las demás imágenes se encuentran en la carpeta correspiendente._
+
 ## ¿Cuál es el problema y cómo se soluciona?
 _El problema es la falta de información sobre las producciones cinematográficas del Estudio Ghibli, y se soluciona al usar la base de datos proporcionada para diseñar una página accesible y sencilla de usar para cualquier persona que sepa inglés._
 
